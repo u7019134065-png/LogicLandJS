@@ -1,0 +1,56 @@
+# ==========================================
+# Telegram Custom Language File
+# Language: LogicLangJS
+# Author: ЕЕее1406
+# ==========================================
+
+language_name = LogicLangJS
+language_author = ЕЕее1406
+
+# Основные пункты интерфейса
+lng_about_telegram = Про мой язык
+lng_chat_list = Сервера LogicJS
+lng_send_message = Активировать волну
+lng_settings = Настройки сервера
+lng_cancel = Закрыть сервер
+lng_save = Сохранить и выйти
+
+# Статусы пользователя
+lng_online = на серваке
+lng_last_seen_recently = Ливнул-(а)
+lng_typing = Апгрейдит сообщение
+lng_last_seen_long_time_ago = Покинул-(а) наш сервак
+
+# Профиль
+lng_phone_number = Айди
+lng_username = Запоминающийся
+lng_bio = Примечания
+
+# Настройки
+lng_chat_settings = Настройки волн
+lng_privacy_settings = Файлы сервера
+lng_notifications_and_sounds = Предупреждение о волне и звуки
+lng_data_and_storage = Моды сервера
+lng_power_saving = Время сервера
+lng_chat_folders = Сервера
+lng_devices = Участники сервера
+lng_language = Лангуане
+
+# Истории
+lng_stories = Список серверов
+lng_all_chats = Сервера
+
+# Создание
+lng_create_contact = Создать приватный сервер
+lng_create_group = Создать маленький сервер
+lng_create_channel = Создать глобальный сервер
+
+# Каналы
+lng_channel_public = Публичный сервер
+lng_channel_subscribers = Играющие
+lng_channel_admins = Админы
+lng_channel_blacklist = Убийцы сервера
+lng_channel_settings = Настройки файлов сервера
+
+# Группы
+lng_group_creator = Создатель сервера
